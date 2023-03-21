@@ -77,7 +77,7 @@ function vowelCount(str) {
   }
 
   return vowelCount;
-}
+}  
 **Time Complexity: O(n)**
 
 ---
