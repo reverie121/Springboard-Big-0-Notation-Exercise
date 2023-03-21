@@ -4,13 +4,13 @@
 1. 0(n)
 2. 0(n)
 3. 0(1)
-4. 0(n^3 + n^2)
+4. 0(n^3)
 5. 0(n)
 6. 0(n log n)
-7. 0(n log n + n)
-8. 0(2^n + n^2)
+7. 0(n log n)
+8. 0(2^n)
 9. 0(1)
-10. 0(n + n^(1/2) + n^2 + n * log(n)^10)
+10. 0(n^2)
 
 ---
 
@@ -84,13 +84,13 @@ function vowelCount(str) {
 
 ## Part 3 - short answer
 
-1. False
+1. True
 2. True
 3. False
 4. O(n)
 5. O(n)
 6. O(n)
-7. O(n)
+7. O(n log n)
 8. O(n)
 9. O(1)
 10. O(n)
